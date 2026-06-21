@@ -16,22 +16,23 @@
 
 ---
 
-### lo que hago
-
-**Backend** → Java/Spring · Node.js/Express · Python · .NET · APIs REST · microservicios
-**Frontend** → React · Angular · Vue · TypeScript
-**Datos** → PostgreSQL · MySQL · SQL Server · MongoDB · Cassandra · Neo4j · DynamoDB · Redis
-**Infra** → Docker · Kubernetes · AWS · Azure · GCP · CI/CD (Jenkins)
-**Testing** → JUnit · JEST · Selenium · Cypress · Postman · JMeter
-**Programación funcional y lógica** → Haskell, Prolog — la base que sostiene IA, sistemas de razonamiento y verificación formal
-
+### Lo que hago
+ 
+```yaml
+backend:    [Java/Spring, Node.js/Express, Python, .NET, REST APIs, microservicios]
+frontend:   [React, Angular, Vue, TypeScript]
+datos:      [PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, Neo4j, DynamoDB, Redis]
+infra:      [Docker, Kubernetes, AWS, Azure, GCP, CI/CD]
+testing:    [JUnit, JEST, Selenium, Cypress, Postman, JMeter]
+funcional:  [Haskell, Prolog]  # razonamiento formal, la base bajo la IA
+```
 12 años construyendo aplicaciones de punta a punta para clientes reales. Un par de años liderando equipos y formando devs — sigo escribiendo código todos los días, eso no lo dejé nunca.
 
-Curso el Grado en Psicología en paralelo. No es un dato decorativo: se nota en cómo reviso PRs y en cómo diseño APIs e interfaces que otra persona pueda entender sin preguntarme nada.
+**Curso el Grado en Psicología en paralelo, como segunda carrera**. No es un dato decorativo: se nota en la gestión de peronas y la comunicación, en cómo reviso PRs y en cómo diseño APIs e interfaces que otra persona pueda entender sin preguntarme nada.
 
-### empieza por aquí
+### Empieza por aquí
 
-→ 📌 **[`start-here`](#)** — índice de todos los proyectos, con qué mirar según lo que te interese
+→ 📌 **[`start-here`](#)** — índice de todos los proyectos, con qué mirar según lo que te interese, aunque puedes ver lo destacado aquí: 
 
 | proyecto | qué es |
 |---|---|
