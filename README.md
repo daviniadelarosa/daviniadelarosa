@@ -11,7 +11,7 @@
 
 <p align="center">
   Full Stack Developer · 12+ años escribiendo código que sobrevive al deploy<br/>
-  Antes formé a miles de devs · ahora aplico ese expertise y toda mi experiencia al desarrollo
+  Antes formé a miles de devs · ahora aplico ese expertise y todo lo que sé al desarrollo
 </p>
 
 ---
