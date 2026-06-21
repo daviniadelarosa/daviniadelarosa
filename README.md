@@ -28,11 +28,11 @@ funcional:  [Haskell, Prolog]  # razonamiento formal, la base bajo la IA
 ```
 12 años construyendo aplicaciones de punta a punta para clientes reales. Un par de años liderando equipos y formando devs — sigo escribiendo código todos los días, eso no lo dejé nunca.
 
-**Curso el Grado en Psicología en paralelo, como segunda carrera**. No es un dato decorativo: se nota en la gestión de peronas y la comunicación, en cómo reviso PRs y en cómo diseño APIs e interfaces que otra persona pueda entender sin preguntarme nada.
+**Curso el Grado en Psicología en paralelo, como segunda carrera**. No es un dato decorativo: se nota en la gestión de personas y la comunicación, en cómo reviso PRs y en cómo diseño APIs e interfaces que otra persona pueda entender sin preguntarme nada.
 
 ### Empieza por aquí
 
-→ 📌 **[`start-here`](#)** — índice de todos los proyectos, con qué mirar según lo que te interese, aunque puedes ver lo destacado aquí (aún los repositorios no están publicos porque están in progress): 
+→ 📌 **[`start-here`](#)** — índice de todos los proyectos, con qué mirar según lo que te interese, aunque puedes ver lo destacado aquí: 
 
 | proyecto | qué es |
 |---|---|
