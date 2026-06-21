@@ -1,10 +1,14 @@
-<h1 align="center">hey, soy [Tu Nombre] 👋</h1>
+<h1 align="center">hey, soy Davinia de la Rosa👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/backend-Java%20%7C%20Spring-1F3864?style=flat-square" alt="backend"/>
+  
   <img src="https://img.shields.io/badge/backend-Node.js-1F3864?style=flat-square" alt="node"/>
+  
   <img src="https://img.shields.io/badge/backend-Python-1F3864?style=flat-square" alt="python"/>
+  
   <img src="https://img.shields.io/badge/cloud-AWS%20%7C%20Azure%20%7C%20Docker-444441?style=flat-square" alt="cloud"/>
+  
   <img src="https://img.shields.io/badge/remote-100%25-0F6E56?style=flat-square" alt="remote"/>
 </p>
 
