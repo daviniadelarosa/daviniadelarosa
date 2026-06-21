@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  backend developer · 12+ años escribiendo código que sobrevive al deploy<br/>
-  antes formé a cientos de devs · ahora aplico esa obsesión por la claridad al código mismo
+  Full Stack Developer · 12+ años escribiendo código que sobrevive al deploy<br/>
+  Antes formé a miles de devs · ahora aplico ese expertise y toda mi experiencia al desarrollo
 </p>
 
 ---
@@ -47,6 +47,6 @@ Curso el Grado en Psicología en paralelo. No es un dato decorativo: se nota en 
 
 ### contacto
 
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [tu email] · disponible remoto 100%
+[LinkedIn](https://www.linkedin.com/in/davinia-de-la-rosa-hernandez-desarrollo/) · daviniadelarosa@gmail.com · disponible remoto 100%
 
-<sub>si llegaste hasta aquí leyendo el código de arriba como un objeto JS real, ya sabemos que hablamos el mismo idioma</sub>
+
