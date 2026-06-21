@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Davinia de la Rosa 👋</h1>
+<h1 align="center">hey, soy Davinia de la Rosa 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F3864?style=flat-square" alt="fullstack"/>
@@ -40,6 +40,7 @@ Curso el Grado en Psicología en paralelo. No es un dato decorativo: se nota en 
 | 🎨 `app-fullstack-react` | end-to-end: API + frontend conectados, despliegue real |
 | 📦 `boilerplate-backend-starter` | starter kit backend, [también en venta →](#) |
 | 🧠 `algoritmos-haskell` | programación funcional aplicada a problemas no triviales |
+
 
 ### contacto
 
