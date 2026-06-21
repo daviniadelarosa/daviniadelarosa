@@ -32,7 +32,7 @@ funcional:  [Haskell, Prolog]  # razonamiento formal, la base bajo la IA
 
 ### Empieza por aquí
 
-→ 📌 **[`start-here`](#)** — índice de todos los proyectos, con qué mirar según lo que te interese, aunque puedes ver lo destacado aquí: 
+→ 📌 **[`start-here`](https://github.com/daviniadelarosa/start-here)** — índice de todos los proyectos, con qué mirar según lo que te interese, aunque puedes ver lo destacado aquí: 
 
 | proyecto | qué es |
 |---|---|
