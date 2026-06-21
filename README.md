@@ -19,12 +19,12 @@
 ### Lo que hago
  
 ```yaml
-backend:    [Java/Spring, Node.js/Express, Python, .NET, REST APIs, microservicios]
-frontend:   [React, Angular, Vue, TypeScript]
+backend:    [Java/Spring, Node.js/Express, Python, .NET, C, C++, Ada, REST APIs, microservicios]
+frontend:   [HTML, CSS y sus librerías y Frameworks, React, Angular, Vue, TypeScript]
 datos:      [PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, Neo4j, DynamoDB, Redis]
-infra:      [Docker, Kubernetes, AWS, Azure, GCP, CI/CD]
+infra:      [Docker, Kubernetes, AWS, Azure, GCP, CI/CD, Jenkins, scripting, Servidores Windows y Unix]
 testing:    [JUnit, JEST, Selenium, Cypress, Postman, JMeter]
-funcional:  [Haskell, Prolog]  # razonamiento formal, la base bajo la IA
+funcional:  [Haskell, Prolog]  # razonamiento formal, la base bajo la IA entre otros
 ```
 12 años construyendo aplicaciones de punta a punta para clientes reales. Un par de años liderando equipos y formando devs — sigo escribiendo código todos los días, eso no lo dejé nunca.
 
