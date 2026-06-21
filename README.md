@@ -1,4 +1,4 @@
-<h1 align="center">hey, soy Davinia de la Rosa 👋</h1>
+<h1 align="center">Hola, soy Davinia de la Rosa 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F3864?style=flat-square" alt="fullstack"/>
