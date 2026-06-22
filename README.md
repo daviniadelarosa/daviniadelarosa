@@ -19,7 +19,7 @@
 ### Lo que hago
  
 ```yaml
-backend:    [Java/Spring, Node.js/Express, Python, .NET, C, C++, Ada, REST APIs, microservicios]
+backend:    [Java/Spring, Node.js/Express, Python, .NET, PHP, C, C++, Ada, REST APIs, microservicios]
 frontend:   [HTML, CSS y sus librerías y Frameworks, React, Angular, Vue, TypeScript]
 datos:      [PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, Neo4j, DynamoDB, Redis]
 infra:      [Docker, Kubernetes, AWS, Azure, GCP, CI/CD, Jenkins, scripting, Servidores Windows y Unix]
