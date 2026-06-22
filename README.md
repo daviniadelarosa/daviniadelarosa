@@ -26,7 +26,7 @@ infra:      [Docker, Kubernetes, AWS, Azure, GCP, CI/CD, Jenkins, scripting, Ser
 testing:    [JUnit, JEST, Selenium, Cypress, Postman, JMeter]
 funcional:  [Haskell, Prolog]  # razonamiento formal, la base bajo la IA entre otros
 ```
-12 años construyendo aplicaciones de punta a punta para clientes reales. Un par de años liderando equipos y formando devs — sigo escribiendo código todos los días, eso no lo dejé nunca.
+12 años construyendo aplicaciones de punta a punta. Un par de años liderando equipos y mucho tiempo formando devs — sigo escribiendo código todos los días, eso no lo dejé nunca.
 
 **Curso el Grado en Psicología en paralelo, como segunda carrera**. No es un dato decorativo: se nota en la gestión de personas y la comunicación, en cómo reviso PRs y en cómo diseño APIs e interfaces que otra persona pueda entender sin preguntarme nada.
 
